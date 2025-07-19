@@ -56,7 +56,7 @@ Endpoint: ws://localhost:8000/ws/{room_id}?token=your_jwt_token
 Use tools like Postman WebSocket or frontend clients.
 
 example:
- ``bash
+
  ws://localhost:8000/ws/1?token=eyJhbGciOi...
 
 ## API Testing in Postman
